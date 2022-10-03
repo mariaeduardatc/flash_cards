@@ -21,7 +21,8 @@ class ViewController: UIViewController {
     }
     
     func updateFlashcard(question: String, answer: String){
-        
+        frontLabel.text = question
+        backLabel.text = answer
     }
     
     override func prepare(for segue: UIStoryboardSegue, sender: Any?){
