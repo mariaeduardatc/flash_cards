@@ -20,7 +20,7 @@ class ViewController: UIViewController {
         frontLabel.isHidden = true
     }
     
-    func nameupdateFlashcard(question: String, answer: String){
+    func updateFlashcard(question: String, answer: String){
         
     }
     

@@ -110,6 +110,10 @@
                             </connections>
                         </barButtonItem>
                     </navigationItem>
+                    <connections>
+                        <outlet property="answerTextField" destination="cEd-kk-gkF" id="Jwa-Ya-kht"/>
+                        <outlet property="questionTextField" destination="6mc-ct-6M2" id="UXk-19-032"/>
+                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="v9h-Hx-wJy" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
