@@ -37,3 +37,15 @@ iOS Mobile Development project for CodePath's Mobile Development Course.
 - [ ] User gets an error if they try to create a new flashcard with no question or answer
 - [ ] User can edit existing flashcard
 - [ ] User can add multiple choice answers in the creation screen
+
+
+## Lab 3
+
+## Required
+- [x] User can browse through multiple flashcards
+- [x] User can re-open the app and see previously created flashcards
+- [x] Push code to GitHub
+## Optional
+- [ ] User can delete a flashcard
+- [ ] User can edit existing flashcard
+- [ ] User can store multiple choice questions
