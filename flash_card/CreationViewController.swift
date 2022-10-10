@@ -32,6 +32,8 @@ class CreationViewController: UIViewController {
          
          flashcardsController.updateFlashcard(question: questionText!, answer: answerText!)
          
+         print("add flash")
+         
          dismiss(animated: true)
      }
     
