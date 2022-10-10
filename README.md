@@ -40,7 +40,9 @@ iOS Mobile Development project for CodePath's Mobile Development Course.
 
 
 ## Lab 3
+### App Walk-though
 
+<img src="https://submissions.us-east-1.linodeobjects.com/mobile_app_design/p6kk_3Gd.gif" width=200><br>
 ## Required
 - [x] User can browse through multiple flashcards
 - [x] User can re-open the app and see previously created flashcards
