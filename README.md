@@ -57,8 +57,7 @@ iOS Mobile Development project for CodePath's Mobile Development Course.
 
 ### App Walk-though
 
-
-<img src="https://submissions.us-east-1.linodeobjects.com/mobile_app_design/Q3V4mBOV.gif" width=200><br>
+![](xcode.gif)
 
 ## Required
 - [x] User should see the app icon 
