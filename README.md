@@ -59,6 +59,8 @@ iOS Mobile Development project for CodePath's Mobile Development Course.
 
 <img src="https://imgur.com/a/Vx9fwz3" width=200><br>
 
+![](https://github.com/mariaeduardatc/flash_cards/blob/main/to%20github%20-%20Imgur.mp4)
+
 ## Required
 - [x] User should see the app icon 
 - [x] User should see a splash screen
