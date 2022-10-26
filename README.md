@@ -7,8 +7,6 @@ iOS Mobile Development project for CodePath's Mobile Development Course.
 
 ### App Walk-though
 
-<img src="https://media.giphy.com/media/C0l74TVDPeM3X8Rh9R/giphy.gif" width=200><br>
-
 
 ## Required
 - [x] Create New Project in Xcode
@@ -57,9 +55,8 @@ iOS Mobile Development project for CodePath's Mobile Development Course.
 
 ### App Walk-though
 
-<img src="https://imgur.com/a/Vx9fwz3" width=200><br>
+<img src="https://media.giphy.com/media/C0l74TVDPeM3X8Rh9R/giphy.gif" width=200><br>
 
-![](https://github.com/mariaeduardatc/flash_cards/blob/main/to%20github%20-%20Imgur.mp4)
 
 ## Required
 - [x] User should see the app icon 
