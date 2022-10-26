@@ -56,8 +56,7 @@ iOS Mobile Development project for CodePath's Mobile Development Course.
 ## Lab 4
 
 ### App Walk-though
-
-<img src="https://imgur.com/a/Vx9fwz3" width=200><br>
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/Vx9fwz3" data-context="false" ><a href="//imgur.com/a/Vx9fwz3"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 ## Required
 - [x] User should see the app icon 
