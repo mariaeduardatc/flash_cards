@@ -7,7 +7,7 @@ iOS Mobile Development project for CodePath's Mobile Development Course.
 
 ### App Walk-though
 
-<img src="https://submissions.us-east-1.linodeobjects.com/mobile_app_design/vWAx9rEU.gif" width=200><br>
+<img src="https://media.giphy.com/media/C0l74TVDPeM3X8Rh9R/giphy.gif" width=200><br>
 
 
 ## Required
