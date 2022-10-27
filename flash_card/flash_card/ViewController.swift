@@ -18,6 +18,7 @@ class ViewController: UIViewController {
     @IBOutlet weak var nextButton: UIButton!
     @IBOutlet weak var prevButton: UIButton!
     
+    @IBOutlet weak var cardContainer: UIView!
     @IBOutlet weak var card: UIView!
     // array to hold our flashcards
     // [Flashcard]() creates an array and tells iOS that we are going to be putting objects of type Flashcard in it.
@@ -27,6 +28,16 @@ class ViewController: UIViewController {
     
     override func viewDidLoad() {
         super.viewDidLoad()
+        
+        // card style
+        backLabel.layer.cornerRadius = 10.0
+        frontLabel.layer.cornerRadius = 10.0
+        frontLabel.clipsToBounds = true
+        backLabel.clipsToBounds = true
+        
+        cardContainer.layer.shadowRadius = 15.0
+        cardContainer.layer.shadowOpacity = 0.2
+        
         
         readSavedFlashcards()
         
@@ -39,13 +50,18 @@ class ViewController: UIViewController {
         }
     }
 
-    @IBAction func tapOnScreen(_ sender: Any) {
-        flipFlashcard()
+    @IBAction func tapOnBack(_ sender: Any) {
+        flipFlashcard(state: false)
     }
     
-    func flipFlashcard(){
+    
+    @IBAction func tapOnScreen(_ sender: Any) {
+        flipFlashcard(state: true)
+    }
+    
+    func flipFlashcard(state: Bool){
         UIView.transition(with: card, duration: 0.3, options: .transitionFlipFromRight) {
-            self.frontLabel.isHidden = true
+            self.frontLabel.isHidden = state
         }
     }
     
