@@ -7,8 +7,6 @@ iOS Mobile Development project for CodePath's Mobile Development Course.
 
 ### App Walk-though
 
-<img src="https://submissions.us-east-1.linodeobjects.com/mobile_app_design/vWAx9rEU.gif" width=200><br>
-
 
 ## Required
 - [x] Create New Project in Xcode
@@ -42,7 +40,7 @@ iOS Mobile Development project for CodePath's Mobile Development Course.
 ## Lab 3
 ### App Walk-though
 
-<img src="https://submissions.us-east-1.linodeobjects.com/mobile_app_design/p6kk_3Gd.gif" width=200><br>
+
 ## Required
 - [x] User can browse through multiple flashcards
 - [x] User can re-open the app and see previously created flashcards
@@ -51,3 +49,23 @@ iOS Mobile Development project for CodePath's Mobile Development Course.
 - [ ] User can delete a flashcard
 - [ ] User can edit existing flashcard
 - [ ] User can store multiple choice questions
+
+
+## Lab 4
+
+### App Walk-though
+
+<img src="https://media.giphy.com/media/C0l74TVDPeM3X8Rh9R/giphy.gif" width=200><br>
+
+
+## Required
+- [x] User should see the app icon 
+- [x] User should see a splash screen
+- [x] User should see an flip animation when revealing the answer
+- [x] User should see a slide animation when going to the next flashcard
+- [x] User should see a slide animation when going to the previous flashcard
+- [x] Push code to GitHub
+## Optional
+- [ ] User should see a nicer flaschard with rounded corners, shadows, and animating when showing the first time
+- [ ] User should see all views properly layout when using the app on a phone of different sizes
+- [ ] Correct answer in multiple choice should be random
