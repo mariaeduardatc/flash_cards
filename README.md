@@ -3,7 +3,7 @@
 ## Lab 1
 
 ### App Description
-iOS Mobile Development project for CodePath's Mobile Development Course.
+iOS Mobile Development project for CodePath's Mobile Development Course. The app is for those who need a simple way to study and remember concepts for tests, language learning and much more!
 
 ### App Walk-though
 
